@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Paulo Roberto
+# 👨🏾‍💻 Paulo Roberto
 
 **`Desenvolvedor C# | .NET`**
 
